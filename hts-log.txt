@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Oct 2024 16:41:36 at http://engo.test/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://engo.test/ -O1 "C:\My Web Sites\engo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:41:37	Warning: 	Note: due to engo.test remote robots.txt rules, links beginning with these path will be forbidden: /wp-content/uploads/wpo/wpo-plugins-tables-list.json (see in the options to disable this)
+16:42:45	Error: 	"Bad Request" (400) at link engo.test/wp-admin/admin-ajax.php (from engo.test/)
+16:44:36	Warning: 	Moved Permanently for engo.test/courses/engo-junior
+16:44:36	Warning: 	File has moved from engo.test/courses/engo-junior to http://engo.test/courses/engo-junior/
+16:44:36	Error: 	Unable to save file C:/My Web Sites/engo/engo.test/courses/engo-junior: Permission denied
+16:44:38	Warning: 	Moved Permanently for engo.test/courses/engo-standard
+16:44:38	Warning: 	File has moved from engo.test/courses/engo-standard to http://engo.test/courses/engo-standard/
+16:44:38	Error: 	Unable to save file C:/My Web Sites/engo/engo.test/courses/engo-standard: Permission denied
+16:44:38	Warning: 	Moved Permanently for engo.test/courses/engo-business
+16:44:38	Warning: 	File has moved from engo.test/courses/engo-business to http://engo.test/courses/engo-business/
+16:44:38	Error: 	Unable to save file C:/My Web Sites/engo/engo.test/courses/engo-business: Permission denied
+16:44:38	Warning: 	Moved Permanently for engo.test/level-test
+16:44:38	Warning: 	File has moved from engo.test/level-test to http://engo.test/level-test/
+16:44:38	Error: 	Unable to save file C:/My Web Sites/engo/engo.test/level-test: Permission denied
+16:44:48	Warning: 	Moved Permanently for engo.test/?p=900
+16:44:48	Warning: 	File has moved from engo.test/?p=900 to http://engo.test/courses/engo-junior/
+16:44:48	Warning: 	Moved Permanently for engo.test/?p=1040
+16:44:48	Warning: 	File has moved from engo.test/?p=1040 to http://engo.test/courses/engo-standard/
+16:44:56	Warning: 	Moved Permanently for engo.test/?p=1183
+16:44:56	Warning: 	File has moved from engo.test/?p=1183 to http://engo.test/courses/engo-business/
+16:44:56	Warning: 	Moved Permanently for engo.test/?p=23
+16:44:56	Warning: 	File has moved from engo.test/?p=23 to http://engo.test/level-test/
+16:45:00	Warning: 	Moved Permanently for engo.test/?p=24
+16:45:00	Warning: 	File has moved from engo.test/?p=24 to http://engo.test/about-us/
+16:45:00	Warning: 	Moved Permanently for engo.test/?p=25
+16:45:00	Warning: 	File has moved from engo.test/?p=25 to http://engo.test/blog/
+16:45:00	Warning: 	Moved Permanently for engo.test/?p=26
+16:45:00	Warning: 	File has moved from engo.test/?p=26 to http://engo.test/contact-us/
+16:45:00	Warning: 	Moved Permanently for engo.test/?p=386
+16:45:00	Warning: 	File has moved from engo.test/?p=386 to http://engo.test/2024/10/24/the-importance-of-english-grammar/
+16:45:00	Warning: 	Moved Permanently for engo.test/?p=383
+16:45:00	Warning: 	File has moved from engo.test/?p=383 to http://engo.test/2024/10/24/how-to-choose-the-right-english-language-course/
+16:45:00	Warning: 	Moved Permanently for engo.test/?p=379
+16:45:00	Warning: 	File has moved from engo.test/?p=379 to http://engo.test/2024/10/24/5-tips-for-speaking-english-fluently-with-confidence/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 29 seconds : 181 links scanned, 165 files written (16757798 bytes overall), 90 files updated [5507689 bytes received at 26352 bytes/sec], 2.3 requests per connection
+(5 errors, 29 warnings, 0 messages)
